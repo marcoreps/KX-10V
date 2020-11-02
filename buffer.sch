@@ -171,7 +171,7 @@ F 1 "Q_PNP_BCE" H 6690 4805 50  0000 L CNN
 F 2 "Package_TO_SOT_SMD:SOT-223-3_TabPin2" H 6700 4950 50  0001 C CNN
 F 3 "https://www.mouser.de/datasheet/2/115/FZT751Q-1532260.pdf" H 6500 4850 50  0001 C CNN
 	1    6500 4850
-	1    0    0    -1  
+	1    0    0    1   
 $EndComp
 $Comp
 L Device:R R?
